@@ -6,4 +6,8 @@
 - Dockerfile для запуска утилит
 - Git
 
+Для запуска:
+собрать Docker-образ - "docker build -t system-info-app ."
+и запустить контейнер - "docker run --rm system-info-app" 
+
 Учебный DevOps-проект
